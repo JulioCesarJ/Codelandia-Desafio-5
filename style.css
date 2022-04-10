@@ -39,7 +39,7 @@
 
 /* Mobile-First */
 body {
-  height: 100vw;
+  width: 100vw;
   height: 100vh;
   min-width: 320px;
   background: linear-gradient(154.76deg, #628e75 3%, #1a4855 84.12%);
